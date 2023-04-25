@@ -9,3 +9,5 @@ Deployed ML pipeline in AWS: S3 -> EC2 Sagemaker
 Model Baseline: Vision Transformer, Resnet, EfficientNet.
 
 Training part was conducted in **Training & Evalutation.ipynb**, Inference and ensemble was conducted in **Inference.ipynb**. A sampled dataset list was provided in **clean_trian_df.csv** that was about half of the original dataset, and is used for loading dataset.
+
+Trained Models and checkpoints can be stored in **models** folder. In inference do copy pasete the model name to load the model.
