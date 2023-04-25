@@ -1,1 +1,4 @@
 epel*
+
+#ignore all files in models directory
+models
